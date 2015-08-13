@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Contact Form 7 to Parse Database
-Plugin URI: http://mixorg.com/
+Plugin URI: http://rohitbandooni.com/
 Description: 
 Author: Rohit Bandooni
 Version: 0.1b
-Author URI: http://mixorg.com/
+Author URI: http://rohitbandooni.com/
 */
 /*
   Copyright 2015  mixorg.com 
