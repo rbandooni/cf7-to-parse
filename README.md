@@ -1,7 +1,7 @@
 # cf7-to-parse
 
 This is a simple WordPress plugin which will run convert the leads that you get from Contact Form 7 WordPress plugin to Parse
-When the leads, like email, name.. are transfered to Parse, then they can be used in a mobile app in any was the user requires.
+When the lead data e.g. email, name, etc are sent to Parse,they can be used in a mobile app or in a front-end dashboard in any way the user requires.
 
 ## Requirements
 1. Go to Parse.com and create a project
@@ -15,4 +15,4 @@ When the leads, like email, name.. are transfered to Parse, then they can be use
 2. Admin page to input keys and storing the keys to database
 3. Security
 
-If you have any suggestions or queries, [contact me](http://rohitbandooni.com/contact-me "My Website")
+If you have any suggestions or queries, [contact me](mailto:mailme@rohitbandooni.com "My Website")
